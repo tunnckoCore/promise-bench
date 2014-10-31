@@ -1,6 +1,6 @@
-global.useOndrasPromis = true;
+global.useOndrasPromise = true;
 global.useQ = false;
-var OndrasPromise = require("../../ondraspromise/promise");
+var OndrasPromise = require("../../ondras-promise/promise");
 
 require('../lib/fakesP');
 
