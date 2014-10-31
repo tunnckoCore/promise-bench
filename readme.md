@@ -1,4 +1,4 @@
-# better-ratelimit [![NPM version][npmjs-shields]][npmjs-url]
+# promise-bench [![NPM version][npmjs-shields]][npmjs-url]
 > Compare the performance and code of multiple async patterns
 
 ## Install [![Nodei.co stats][npmjs-install]][npmjs-url]
