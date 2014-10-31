@@ -1,0 +1,43 @@
+{
+  "name": "promise-bench",
+  "version": "0.0.1",
+  "description": "Compare the performance and code of multiple async patterns",
+  "bin": {
+    "promisebench": "./bench"
+  },
+  "main": "performance.js",
+  "dependencies": {
+    "text-table": "~0.2.0",
+    "optimist": "~0.6.0",
+    "async": "~0.7.0",
+    "deferred": "~0.7.0",
+    "kew": "~0.4.0",
+    "q": "~1.0.0",
+    "rsvp": "~3.0.0",
+    "when": "~3.1.0",
+    "vow": "~0.4.1",
+    "davy": "~0.2.0",
+    "lie": "^2.7.2",
+    "promise": "^5.0.0",
+    "p-promise": "~0.4.8",
+    "micropromise": "0.4.6",
+    "promiz": "~1.0.0",
+    "promistein": "~1.0.0",
+    "promiscuous": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "promisebench doxbee && promisebench doxbee-errors && promisebench parallel"
+  },
+  "keywords": [
+    "generators",
+    "fibers",
+    "promises",
+    "callbacks",
+    "comparison",
+    "compare",
+    "async"
+  ],
+  "author": "tunnckoCore",
+  "license": "MIT"
+}
