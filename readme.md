@@ -1,4 +1,4 @@
-#### Results: promisebench
+#### Results: promisebench doxbee
 ```
 file                                   time(ms)  memory(MB)
 promises-bluebird-generator.js              727       19.15
