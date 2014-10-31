@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "promise-bench",
   "version": "0.0.1",
   "description": "Compare the performance and code of multiple async patterns",
