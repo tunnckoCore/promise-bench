@@ -35,7 +35,7 @@
     "deferred": "~0.7.0",
     "kew": "~0.4.0",
     "lie": "^2.7.2",
-    "micropromise": "0.4.6",
+    "micropromise": "~0.4.6",
     "optimist": "~0.6.0",
     "p-promise": "~0.4.8",
     "promiscuous": "~0.6.0",
